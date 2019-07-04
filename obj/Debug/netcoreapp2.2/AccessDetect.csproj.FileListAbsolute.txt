@@ -1,0 +1,14 @@
+D:\dotnet\AccessDetect\bin\Debug\netcoreapp2.2\AccessDetect.deps.json
+D:\dotnet\AccessDetect\bin\Debug\netcoreapp2.2\AccessDetect.runtimeconfig.json
+D:\dotnet\AccessDetect\bin\Debug\netcoreapp2.2\AccessDetect.runtimeconfig.dev.json
+D:\dotnet\AccessDetect\bin\Debug\netcoreapp2.2\AccessDetect.dll
+D:\dotnet\AccessDetect\obj\Debug\netcoreapp2.2\AccessDetect.csprojAssemblyReference.cache
+D:\dotnet\AccessDetect\obj\Debug\netcoreapp2.2\AccessDetect.csproj.CoreCompileInputs.cache
+D:\dotnet\AccessDetect\obj\Debug\netcoreapp2.2\AccessDetect.RazorAssemblyInfo.cache
+D:\dotnet\AccessDetect\obj\Debug\netcoreapp2.2\AccessDetect.RazorAssemblyInfo.cs
+D:\dotnet\AccessDetect\obj\Debug\netcoreapp2.2\AccessDetect.AssemblyInfoInputs.cache
+D:\dotnet\AccessDetect\obj\Debug\netcoreapp2.2\AccessDetect.AssemblyInfo.cs
+D:\dotnet\AccessDetect\obj\Debug\netcoreapp2.2\AccessDetect.RazorTargetAssemblyInfo.cache
+D:\dotnet\AccessDetect\bin\Debug\netcoreapp2.2\AccessDetect.pdb
+D:\dotnet\AccessDetect\obj\Debug\netcoreapp2.2\AccessDetect.dll
+D:\dotnet\AccessDetect\obj\Debug\netcoreapp2.2\AccessDetect.pdb
